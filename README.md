@@ -4,7 +4,7 @@
 
 
 
-User entity can be admin or employee . admin can do CRUD on user and Review or assign user as reviewer. employee who is reviewer can create a review .once it created cannot resubmit by employee.
+User entity can be admin or employee . admin can do CRUD on user and on Review or assign user as reviewer. employee who is reviewer can create a review .once it created cannot resubmit by employee.
 
 
 
